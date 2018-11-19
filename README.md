@@ -1,5 +1,5 @@
 # TEDxUofA's website
-TEDxUofA is a student run TEDx event hosted at the University of Arizona. This is their offical website.
+TEDxUofA is a student run TEDx event hosted at the University of Arizona. This is their official website.
 
 ## Architecture
 This is a static website that follows the philosophy of the [JAM Stack](https://jamstack.org/), using [Gatsby](https://www.gatsbyjs.com/).
@@ -25,13 +25,11 @@ Assuming it builds successfully, it should render your site at `localhost:8000`
 ## Running in production
 In order to build your site for production, I highly recommend deploying via [Netlify](https://www.netlify.com).
 
-They have a generous free tier, and getting your site on a public url is as easy as providing them the following command:
+Using their free tier, all you need is to provide them with the following command: 
 
 `gatsby build`
 
-After doing so, netlify should provide you with a temporary url (with a customizable subdomain).
-
-If you'd like to deploy your site on a custom domain - say, www.yourname.com - [Netlify](https://www.netlify.com) also provides easy instructions for doing so.
+After doing so, netlify should provide you with a temporary (or customizable) url.
 
 ## Contributions
 Contributions are welcome, however, this site is mostly under private development.
